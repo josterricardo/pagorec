@@ -153,16 +153,16 @@ section {
     .btn:first-of-type {
       margin-right: 25px; } }
   .btn-filled {
-    background-color: #910d3f; }
+    background-color: #ff4a57; }
     .btn-filled:hover {
-      background-color: #910d3f;
+      background-color: #ff4a57;
       box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.05); }
       .btn-filled:hover i {
         color: #000;
         position: relative;
         z-index: 9; }
   .btn-default {
-    background-color: #910d3f;
+    background-color: #ff4a57;
     border-radius: 50px;
     color: #fff;
     transition: all .5s; }
@@ -171,7 +171,7 @@ section {
   .btn-round, .iconBox .btn {
     border-radius: 50px; }
   .btn-outline {
-    border: 2px solid #910d3f; 
+    border: 2px solid #ff4a57; 
     color: #000;
   }
   .btn:focus {
@@ -218,7 +218,7 @@ section {
   opacity: .5; }
 
 .tagline {
-  color: #910d3f;
+  color: #ff4a57;
   display: block;
   font-size: 14px;
   font-weight: 500;
@@ -231,7 +231,7 @@ section {
   .tagline.bar {
     padding-left: 70px; }
     .tagline.bar:after {
-      background-color: #910d3f;
+      background-color: #ff4a57;
       content: '';
       position: absolute;
       top: 50%;
@@ -276,7 +276,7 @@ section {
   font-size: 70px;
   margin-bottom: 20px; }
   .roysha-icon span:before {
-    color: #910d3f; }
+    color: #ff4a57; }
 
 /**
  *  Preloader
@@ -379,7 +379,7 @@ section {
 .video-btn {
   background-color: #fff;
   border-radius: 50%;
-  color: #910d3f;
+  color: #ff4a57;
   display: block;
   text-align: center;
   line-height: 60px;
@@ -402,7 +402,7 @@ section {
     animation: beat infinite 1.2s;
     height: 100%;
     width: 100%;
-    background-color: #910d3f;
+    background-color: #ff4a57;
     border-radius: 50%;
     z-index: -1; }
   .video-btn:after {
@@ -432,7 +432,7 @@ section {
       .iconBox img {
         margin: 0 auto 25px; } }
   .iconBox .icon {
-    color: #910d3f;
+    color: #ff4a57;
     font-size: 5em;
     margin-bottom: 20px; }
   .iconBox h5 {
@@ -521,7 +521,7 @@ section {
     background-color: #fff;
     border-radius: 0;
     border-bottom-left-radius: 10px;
-    color: #910d3f;
+    color: #ff4a57;
     font-size: 30px;
     min-width: inherit;
     padding: 10px 0;
@@ -531,7 +531,7 @@ section {
     width: 100px;
     z-index: 2; }
     .overlap-imgBox .btn:hover {
-      background-color: #910d3f; }
+      background-color: #ff4a57; }
 
 .imgBox {
   display: block;
@@ -604,7 +604,7 @@ section {
   /* background-color: rgba(0, 0, 0, 0.39); } */
   /* .header.fixed-header {
     position: fixed;
-    background: #910d3f; } */
+    background: #ff4a57; } */
   .header .container {
     position: relative;
     height: 100%; }
@@ -615,7 +615,7 @@ section {
     margin-left: auto; }
     @media screen and (max-width: 991px) {
       .header .primary-menu ul {
-        background-color: #910d3f;
+        background-color: #ff4a57;
         display: none;
         text-align: left;
         width: 100%; }
@@ -636,7 +636,7 @@ section {
         .header .primary-menu ul li.login a {
           padding: 5px 30px; } }
       .header .primary-menu ul li.has-menu-child i {
-        color: #910d3f;
+        color: #ff4a57;
         cursor: pointer;
         display: block;
         font-size: 12px;
@@ -680,7 +680,7 @@ section {
           width: 7px;
           height: 1px;
           border-radius: 50%;
-          background: #910d3f;
+          background: #ff4a57;
           display: block;
           position: absolute;
           left: 10px;
@@ -688,13 +688,13 @@ section {
           transform: scale(1);
           transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         .header .primary-menu ul li.has-menu-child ul.sub-menu a:hover {
-          background-color: #910d3f;
-          color: #910d3f; }
+          background-color: #ff4a57;
+          color: #ff4a57; }
         .header .primary-menu ul li.has-menu-child ul.sub-menu a:hover:before {
           background: #fff;
           transform: scale(2); }
       .header .primary-menu ul li a {
-        color: #910d3f;
+        color: #ff4a57;
         display: block;
         text-transform: capitalize;
         padding: 5px 25px;
@@ -716,7 +716,7 @@ section {
               top: 13px;
               position: relative; }
               .header .primary-menu ul li a.login.btn.btn-outline.btn-round:hover span, .header .primary-menu ul li .iconBox a.login.btn.btn-outline:hover span, .iconBox .header .primary-menu ul li a.login.btn.btn-outline:hover span {
-                color: #910d3f; } }
+                color: #ff4a57; } }
           @media screen and (max-width: 991px) {
             .header .primary-menu ul li a.login.btn.btn-outline.btn-round, .header .primary-menu ul li .iconBox a.login.btn.btn-outline, .iconBox .header .primary-menu ul li a.login.btn.btn-outline {
               border: none;
@@ -1040,7 +1040,7 @@ section {
     height: 4px;
     width: 40px; }
   .testimonial .owl-dots .active span {
-    background-color: #910d3f; }
+    background-color: #ff4a57; }
 .testimonial-v2 .testimonialBox, .testimonial-v3 .testimonialBox {
   position: relative;
   background-color: #fff;
@@ -1086,7 +1086,7 @@ section {
     height: 40px;
     width: 40px; }
     .testimonial-v2 .owl-nav button:hover, .testimonial-v3 .owl-nav button:hover {
-      background-color: #910d3f !important; }
+      background-color: #ff4a57 !important; }
   .testimonial-v2 .owl-nav .owl-prev, .testimonial-v3 .owl-nav .owl-prev {
     position: absolute;
     left: -130px; }
@@ -1110,8 +1110,8 @@ section {
   height: 10px;
   width: 10px; }
   .testimonial-v3 .owl-dots button.active {
-    background-color: #910d3f;
-    border-color: #910d3f; }
+    background-color: #ff4a57;
+    border-color: #ff4a57; }
 
 /**
  * Footer
@@ -1121,7 +1121,7 @@ section {
   background-position: center top;
   background-repeat: no-repeat;
   background-image: url("../images/footer-bg.png");
-  background-color: #910d3f;
+  background-color: #ff4a57;
   position: relative; }
   .footer .foo-top {
     padding: 100px 0 90px; }
@@ -1671,10 +1671,10 @@ section {
 * Our process section
 */
 .our-process .btn {
-  background: #910d3f;
+  background: #ff4a57;
   color: #fff;
   margin-top: 65px;
-  border: 1px solid #910d3f; }
+  border: 1px solid #ff4a57; }
   .our-process .btn:hover {
     color: #000; }
 @media screen and (max-width: 1199px) {
@@ -1743,7 +1743,7 @@ section {
       height: 45px;
       width: 45px; }
     .accordion.has-numbering .accordion-item.active:before {
-      background: #910d3f;
+      background: #ff4a57;
       color: #fff; }
 
 /**
@@ -1761,7 +1761,7 @@ section {
     .ps-works .video-box, .ps-works .video-box-round {
       padding: 0 15px; } }
   .ps-works .video-box:after, .ps-works .video-box-round:after {
-    background-color: #910d3f;
+    background-color: #ff4a57;
     clip-path: polygon(40% 0, 100% 0, 100% 100%, 0 100%);
     max-width: 730px;
     height: calc(100% + 140px);
@@ -1795,8 +1795,8 @@ section {
         .faq-tab .nav a img, .faq-tab .nav a .roysha-icon {
           margin-bottom: 10px; } }
     .faq-tab .nav a.active {
-      background-color: #910d3f;
-      border-color: #910d3f;
+      background-color: #ff4a57;
+      border-color: #ff4a57;
       color: #fff; }
       .faq-tab .nav a.active .roysha-icon span:before {
         color: #fff !important; }
@@ -1969,7 +1969,7 @@ section {
         .cmn-tab-nav li a {
           border-bottom: 1px solid #dadada; } }
       .cmn-tab-nav li a.active {
-        background-color: #910d3f;
+        background-color: #ff4a57;
         color: #fff; }
     .cmn-tab-nav li:last-child a {
       border: none; }
@@ -2001,8 +2001,8 @@ section {
           border-bottom: 1px solid #dadada;
           padding: 10px 0; } }
       .list-tab-nav li a.active {
-        border-color: #910d3f;
-        color: #910d3f; }
+        border-color: #ff4a57;
+        color: #ff4a57; }
 
 /**
  * Benefits section
@@ -2061,7 +2061,7 @@ section {
 .package-table table {
   width: 100%; }
 .package-table th {
-  background-color: #910d3f;
+  background-color: #ff4a57;
   color: #fff;
   font-size: 18px;
   font-weight: 500;
@@ -2200,7 +2200,7 @@ section {
     float: right; }
 
 .contact-info-wrap {
-  background-color: #910d3f;
+  background-color: #ff4a57;
   font-size: 15px;
   padding: 100px 40px; }
   .contact-info-wrap address {
@@ -2219,7 +2219,7 @@ section {
     .contact-info-wrap address i {
       background-color: #fff;
       border-radius: 50%;
-      color: #910d3f;
+      color: #ff4a57;
       font-size: 16px;
       line-height: 40px;
       text-align: center;
@@ -2430,7 +2430,7 @@ section {
         left: 0;
         right: 0;
         bottom: 0;
-        background-color: #910d3f;
+        background-color: #ff4a57;
         transition: all 300ms ease-in-out;
         height: 1px;
         width: 0; }
@@ -2455,7 +2455,7 @@ section {
         left: 0;
         right: 0;
         bottom: 0;
-        background-color: #910d3f;
+        background-color: #ff4a57;
         transition: all 300ms ease-in-out;
         height: 1px;
         width: 0; }
@@ -2603,7 +2603,7 @@ section {
  * 404 Error section
  */
 .error-page .header {
-  background-color: #910d3f;
+  background-color: #ff4a57;
   position: relative; }
 .error-page .sec-heading {
   margin-bottom: 40px; }
@@ -2616,7 +2616,7 @@ section {
   display: flex;
   flex-wrap: wrap; }
   .signup-login .sl-slider-caro {
-    background-color: #910d3f;
+    background-color: #ff4a57;
     position: relative;
     padding: 10% 0 5%; }
     @media screen and (min-width: 992px) {
@@ -2784,7 +2784,7 @@ section {
       font-size: 14px;
       text-transform: uppercase; }
     .coming-sec #clock span {
-      background-color: #910d3f;
+      background-color: #ff4a57;
       border-radius: 5px;
       display: block;
       font-size: 30px;
@@ -2849,9 +2849,9 @@ section {
         height: 10px;
         width: 5px; }
     .receive-works .cmn-tab-nav li a.active .nav-arrow {
-      background-color: #910d3f; }
+      background-color: #ff4a57; }
       .receive-works .cmn-tab-nav li a.active .nav-arrow:after {
-        background-color: #910d3f; }
+        background-color: #ff4a57; }
 
 /**
  * Landing Ecommerce
