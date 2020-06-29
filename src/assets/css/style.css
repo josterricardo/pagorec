@@ -600,10 +600,11 @@ section {
   width: 100%;
   z-index: 9;
   transition: all .5s;
-  background-color: rgba(0, 0, 0, 0.39); }
-  .header.fixed-header {
+  background-color: #fff; }
+  /* background-color: rgba(0, 0, 0, 0.39); } */
+  /* .header.fixed-header {
     position: fixed;
-    background: #910d3f; }
+    background: #910d3f; } */
   .header .container {
     position: relative;
     height: 100%; }
@@ -635,7 +636,7 @@ section {
         .header .primary-menu ul li.login a {
           padding: 5px 30px; } }
       .header .primary-menu ul li.has-menu-child i {
-        color: #fff;
+        color: #910d3f;
         cursor: pointer;
         display: block;
         font-size: 12px;
@@ -688,12 +689,12 @@ section {
           transition: transform 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
         .header .primary-menu ul li.has-menu-child ul.sub-menu a:hover {
           background-color: #910d3f;
-          color: #fff; }
+          color: #910d3f; }
         .header .primary-menu ul li.has-menu-child ul.sub-menu a:hover:before {
           background: #fff;
           transform: scale(2); }
       .header .primary-menu ul li a {
-        color: #fff;
+        color: #910d3f;
         display: block;
         text-transform: capitalize;
         padding: 5px 25px;
