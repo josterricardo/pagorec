@@ -163,13 +163,13 @@ section {
         z-index: 9; }
   .btn-default {
     background-color: #ff4a57;
-    border-radius: 50px;
+    border-radius: 5px;
     color: #fff;
     transition: all .5s; }
     .btn-default:hover {
       box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.05); }
   .btn-round, .iconBox .btn {
-    border-radius: 50px; }
+    border-radius: 5px; }
   .btn-outline {
     border: 2px solid #ff4a57; 
     color: #000;
@@ -694,10 +694,11 @@ section {
           background: #fff;
           transform: scale(2); }
       .header .primary-menu ul li a {
-        color: #ff4a57;
+        color: #474b4e;
         display: block;
         text-transform: capitalize;
         padding: 5px 25px;
+        font-size: 15px;
         position: relative; }
         @media screen and (min-width: 992px) {
           .header .primary-menu ul li a {
@@ -1121,7 +1122,8 @@ section {
   background-position: center top;
   background-repeat: no-repeat;
   background-image: url("../images/footer-bg.png");
-  background-color: #ff4a57;
+  background-color: #474b4e;
+  /* background-color: #ff4a57; */
   position: relative; }
   .footer .foo-top {
     padding: 100px 0 90px; }
@@ -2910,3 +2912,26 @@ img.an1.animg5 {
   transform-origin: 47.3% 50%; }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Personales */
+.btn-menu {
+  color: #ffffff !important;
+  background: #474b4e !important;
+  border-color: #474b4e !important;
+}
+.btn-menu:hover {
+  color: #474b4e !important;
+  border-color: #ff4a57 !important;
+}
+
+.primary-menu ul li a:hover {
+  color: #ff4a57 !important;
+}
+
+.primary-menu ul li a:active {
+  color: #ff4a57 !important;
+}
+
+.logo_footer {
+  max-width: 250px;
+}

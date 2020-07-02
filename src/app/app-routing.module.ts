@@ -11,7 +11,7 @@ import {PageHome01Component} from "./components/page-home01/page-home01.componen
 
 const routes: Routes = [
  {
-    path: "home-01",
+    path: "",
     component: PageHome01Component
   }, {
     path: "",
