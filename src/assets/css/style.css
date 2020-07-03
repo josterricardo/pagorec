@@ -173,6 +173,7 @@ section {
   .btn-outline {
     border: 2px solid #ff4a57; 
     color: #000;
+    background-color: #ffffff;
   }
   .btn:focus {
     box-shadow: none; }
@@ -2934,4 +2935,9 @@ img.an1.animg5 {
 
 .logo_footer {
   max-width: 250px;
+}
+
+.foo-nav p{
+  color: #ffffff;
+  font-size: 15px;
 }
