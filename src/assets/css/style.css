@@ -611,7 +611,7 @@ section {
     height: 100%; }
   .header .logo {
     display: block;
-    max-width: 138px; }
+    max-width: 175px; }
   .header .primary-menu {
     margin-left: auto; }
     @media screen and (max-width: 991px) {
@@ -718,7 +718,8 @@ section {
               top: 13px;
               position: relative; }
               .header .primary-menu ul li a.login.btn.btn-outline.btn-round:hover span, .header .primary-menu ul li .iconBox a.login.btn.btn-outline:hover span, .iconBox .header .primary-menu ul li a.login.btn.btn-outline:hover span {
-                color: #ff4a57; } }
+                color: #ffffff;
+              background: #ff4a57; } }
           @media screen and (max-width: 991px) {
             .header .primary-menu ul li a.login.btn.btn-outline.btn-round, .header .primary-menu ul li .iconBox a.login.btn.btn-outline, .iconBox .header .primary-menu ul li a.login.btn.btn-outline {
               border: none;
@@ -2921,8 +2922,9 @@ img.an1.animg5 {
   border-color: #474b4e !important;
 }
 .btn-menu:hover {
-  color: #474b4e !important;
+  color: #ffffff !important;
   border-color: #ff4a57 !important;
+  background: #ff4a57 !important;
 }
 
 .primary-menu ul li a:hover {
